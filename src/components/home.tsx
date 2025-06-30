@@ -65,7 +65,7 @@ const Home = () => {
                       With all my love,
                     </p>
                     <p className="font-['Dancing_Script'] text-2xl text-[#8B4B8C]">
-                      Your Name
+                      Jayesh
                     </p>
                   </div>
                 </CardContent>
@@ -81,7 +81,7 @@ const Home = () => {
             >
               <div className="w-full h-full rounded-xl overflow-hidden shadow-lg transform rotate-3 hover:rotate-0 transition-transform duration-300">
                 <img
-                  src="https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80"
+                  src="/images/20250329_184048.jpg"
                   alt="Us together"
                   className="w-full h-full object-cover"
                 />
